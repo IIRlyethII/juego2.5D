@@ -41,6 +41,13 @@
 *.VC.db
 *.VC.opendb
 
+# Visual Studio specific
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
