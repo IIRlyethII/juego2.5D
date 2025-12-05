@@ -3,16 +3,6 @@
 	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "2.5D Side-Scrolling Runner inspired by Atomic Runner Chelnov",
-	"Modules": [
-		{
-			"Name": "PocketMirrorV2",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
